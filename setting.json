@@ -1,159 +1,88 @@
-# {
-"steps":[
 {
-"id":1,
-"name":"Step 1" 
-},
-{
-"id":2,
-"name":"Step 2" 
-},
-{
-"id":3,
-"name":"Step 3" 
-},
-{
-"id":4,
-"name":"Step 4" 
-}
-],
-"Step 1":[
-{
-"id":1,
-"name":"How to Set default file destination?" 
-To change your default file save destination on Xender, follow these steps. Make sure that your device has support for SD Card and it is working properly!
-
-Launch Xender.
-Tap on your avatar icon.
-Tap on Settings.
-Tap on Download Location.
-Now select either SD Card or Phone Storage as your default file destination.},
-{
-"id":2,
-"name":"How To Send files in Xender?" 
-To send files using Xender on different devices, follow these steps:
-
-Android to Android:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Tap on “Create Group”.
-After the group has been created, on the other device tap on the “+” button and then “Join Group”.
-Find and select the device on which the group was created.
-After you join the group, select any file and send it via Xender!
-Android to Windows Phone:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect WP”.
-Now on Windows Phone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on Windows Phone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device and be able to send files between the devices.
-Android to iOS:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect iPhone”.
-Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device and be able to send files between the devices.},
-{
-"id":3,
-"name":"How to move Xender to SD Card!" 
-
-To move Xender to SD Card, follow these steps!
-
-Launch the Settings App.
-Tap on Apps & Notifications.
-Tap on Apps.
-Scroll down and tap on Xender.
-Now, select Move to SD Card.
-Once you do that, Xender will be moved from your Phone Storage to SD Card.},
-{
-"id":4,
-"name":"How to connect Xender Web" 
-To connect your Android Phone and PC, follow these steps:
-
-Download and install Xender on your Android device if you haven’t already!
-Launch the Xender app on your Android.
-Tap on the profile picture icon at the top left-hand side of the screen.
-Select Connect PC.
-On your PC open any web browser and visit http://web.xender.com/.
-A bar code will be shown on the web screen.}
-],
-"Step 2":[
-{
-"id":1,
-"name":"Slow Transfer Speed" 
-One of the common reasons why you are having a low transfer speed on Xender is that the distance between the devices has increased. Due to this, the devices would be having difficulty in communicating and you may be experiencing slow speed.
-
-Therefore, it is recommended that you shorten the distance between the devices to increase the transfer speed.
-
-Too many Wi-Fi Signals
-Another reason why you could be having a low transfer speed is that there are too many Wi-Fi networks in the area. The place may be very much crowded with Wi-Fi Signals which may interfere with transfer resulting in low transfer speed.
-
-Many Apps in the Background
-It could be that on either of the device, there are many apps opened in the background that are using the Wi-Fi. All of those apps using the Wi-Fi may result in low transfer speed.},
-{
-"id":2,
-"name":"How to Send Files in Xender?" 
-Android to iOS:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect iPhone”.
-Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device and be able to send files between the devices.},
-{
-"id":3,
-"name":"How to Receive Files in Xender ?" 
-
-To receive files using Xender on different devices, follow these steps:
-
-Android to Android:
-Open Xender app on your Android device.
-Tap on the “+” button.
-Tap on “Create Group”.
-After the group has been created, on the other device tap on the “+” button and then “Join Group”.
-Find and select the device on which the group was created.
-After you join the group, you will be able to receive files via Xender!
-Android to Windows Phone:
-Open Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect WP”.
-Now on Windows Phone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on Windows Phone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device.
-Now through Xender, you will be able to receive files on your device.
-Android to iOS:
-Open Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect iPhone”.
-Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device.
-Now through Xender, you will be able to receive files on your device.},
-{
-"id":4,
-"name":"How to transfer files with VPN Fix" 
-Why VPN causes problems?
-When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
-
-VPNs can also cause connection problems between receiving and sending devices. These connection problems can also result in failure to send and receive files using SHAREit.
-
-How to fix this?
-Before you use Xender and make any transfer using Xender, make sure that all of the VPN apps are closed so, the Xender is able to make the transfer between files and everything occurs seamlessly.
-
-If you are connected to any VPN connection, then it is better that you turn it off and then transfer the files afterward so, no problem may occur between the transfer of files.}
-],
-"How to Set default file destination?":
-[How to set default file destination?
-To change your default file save destination on Xender, follow these steps. Make sure that your device has support for SD Card and it is working properly!
-
-Launch Xender.
-Tap on your avatar icon.
-Tap on Settings.
-Tap on Download Location.
-Now select either SD Card or Phone Storage as your default file destination.
-{
-"name":"It may be that one of the devices is very old and has outdated hardware (Wi-Fi Technology) due to which the transfer" 
-}
-]
+    "steps": [
+        {
+            "id": 1,
+            "name": "Step 1"
+        },
+        {
+            "id": 2,
+            "name": "Step 2"
+        },
+        {
+            "id": 3,
+            "name": "Step 3"
+        },
+        {
+            "id": 4,
+            "name": "Step 4"
+        },
+        {
+            "id": 5,
+            "name": "Step 5"
+        }
+    ],
+    "Step 1": [
+        {
+            "id": 1,
+            "name": "How to Set default file destination?"
+        },
+        {
+            "id": 2,
+            "name": "How To Send files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to move Xender to SD Card!"
+        },
+        {
+            "id": 4,
+            "name": "How to connect Xender Web"
+        }
+    ],
+    "Step 2": [
+        {
+            "id": 1,
+            "name": "Slow Transfer Speed"
+        },
+        {
+            "id": 2,
+            "name": "How to Send Files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to Receive Files in Xender ?"
+        },
+        {
+            "id": 4,
+            "name": "How to transfer files with VPN Fix"
+        }
+    ],
+    "Step 4": [
+        {
+            "id": 1,
+            "name": "Slow Transfer Speed"
+        },
+        {
+            "id": 2,
+            "name": "How to Send Files in Xender?"
+        },
+        {
+            "id": 3,
+            "name": "How to Receive Files in Xender ?"
+        },
+        {
+            "id": 4,
+            "name": "How to transfer files with VPN Fix"
+        }
+    ],
+    "How to Set default file destination?": [
+        {
+            "name": "It may be that one of the devices is very old and has outdated hardware (Wi-Fi Technology) due to which the transfer"
+        }
+    ],
+    "How to transfer files with VPN Fix": [
+        {
+            "name": "tttttttttttttttttttttttttttttttsghssjkssssssssssssssssssssssssssssssssssss slssssssssssssssssssssssssss slslssmmsmss"
+        }
+    ]
 }
