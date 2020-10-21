@@ -74,7 +74,7 @@
             "id": 4,
     "How to transfer files with VPN Fix"
         }
-            "name": "Why VPN causes problems?
+            "name": "Why VPN causes problems?"
 When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
 
 VPNs can also cause connection problems between receiving and sending devices. These connection problems can also result in failure to send and receive files using SHAREit.
@@ -91,7 +91,7 @@ If you are connected to any VPN connection, then it is better that you turn it o
     ],
     "How to transfer files with VPN Fix": [
         {
-            "name": "Why VPN causes problems?
+            "name": "Why VPN causes problems?"
 When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
 
 VPNs can also cause connection problems between receiving and sending devices. These connection problems can also result in failure to send and receive files using SHAREit.
