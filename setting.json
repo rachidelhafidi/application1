@@ -92,7 +92,7 @@ Before you use Xender and make any transfer using Xender, make sure that all of 
 
 If you are connected to any VPN connection, then it is better that you turn it off and then transfer the files afterward so, no problem may occur between the transfer of files."
         }
-}
+],
    "How to Send Files in Xender?" [
           "name": "To send files using Xender on different devices, follow these steps:
 
@@ -118,7 +118,7 @@ Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection crea
 Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
 You will now be connected to the Android device and be able to send files between the devices."
        "How to Receive Files in Xender ?" [
- }
+ ],
          "name": "To receive files using Xender on different devices, follow these steps:
 
 Android to Android:
@@ -144,9 +144,10 @@ Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection crea
 Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
 You will now be connected to the Android device.
 Now through Xender, you will be able to receive files on your device."
-}      
+}
+],
         "How to transfer files with VPN Fix" [
-}       
+}            
         "name": "Why VPN causes problems?
 When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
 
@@ -172,6 +173,7 @@ Tap on Apps.
 Scroll down and tap on Xender.
 Now, select Move to SD Card.
 Once you do that, Xender will be moved from your Phone Storage to SD Card."
+],            
         "How to connect Xender Web" [
  }       
         "name": "You just require a PC with working internet connection and you will be able to make the transfer between your devices using the Wi-Fi connection.
@@ -185,7 +187,8 @@ Tap on the profile picture icon at the top left-hand side of the screen.
 Select Connect PC.
 On your PC open any web browser and visit http://web.xender.com/.
 A bar code will be shown on the web screen."
- }       
+ }
+ ],           
           "Slow Transfer Speed" [
         "name":"Distance between devices
 One of the common reasons why you are having a low transfer speed on Xender is that the distance between the devices has increased. Due to this, the devices would be having difficulty in communicating and you may be experiencing slow speed.
@@ -204,4 +207,5 @@ It may be that one of the devices doesn’t have enough RAM memory or the phone 
 Wi-Fi Technology
 It may be that one of the devices is very old and has outdated hardware (Wi-Fi Technology) due to which the transfer speed may be slow."
 }
+],              
         
