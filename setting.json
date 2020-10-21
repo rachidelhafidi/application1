@@ -56,6 +56,24 @@
             "id": 4,
             "name": "How to transfer files with VPN Fix"
         }
+  ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "Where can I download app mods?"
+        },
+        {
+            "id": 2,
+            "name": "Is HappyMod safe?"
+        },
+        {
+            "id": 3,
+            "name": "What is HappyMod?"
+        },
+        {
+            "id": 4,
+            "name": "What is the best MOD app?"
+        }
     ],
     "Step 4": [
         {
@@ -72,17 +90,8 @@
         },
         {
             "id": 4,
-    "How to transfer files with VPN Fix"
+            "name": "How to transfer files with VPN Fix"
         }
-            "name": "Why VPN causes problems?" [
-When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
-
-VPNs can also cause connection problems between receiving and sending devices. These connection problems can also result in failure to send and receive files using SHAREit.
-
-How to fix this?
-Before you use Xender and make any transfer using Xender, make sure that all of the VPN apps are closed so, the Xender is able to make the transfer between files and everything occurs seamlessly.
-
-If you are connected to any VPN connection, then it is better that you turn it off and then transfer the files afterward so, no problem may occur between the transfer of files."
     ],
     "How to Set default file destination?": [
         {
@@ -91,7 +100,7 @@ If you are connected to any VPN connection, then it is better that you turn it o
     ],
     "How to transfer files with VPN Fix": [
         {
-            "name": "Why VPN causes problems?"
+            "Why VPN causes problems?
 When you run VPN on devices then it can result in failure to activate hotspot on receiving due to which both of the devices aren’t connected to the same network, which results in the devices unable to share files between them using SHAREit.
 
 VPNs can also cause connection problems between receiving and sending devices. These connection problems can also result in failure to send and receive files using SHAREit.
