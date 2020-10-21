@@ -29,29 +29,7 @@
         {
             "id": 2,
             "name": "How To Send files in Xender?"
-        To send files using Xender on different devices, follow these steps:
-
-Android to Android:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Tap on “Create Group”.
-After the group has been created, on the other device tap on the “+” button and then “Join Group”.
-Find and select the device on which the group was created.
-After you join the group, select any file and send it via Xender!
-Android to Windows Phone:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect WP”.
-Now on Windows Phone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on Windows Phone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device and be able to send files between the devices.
-Android to iOS:
-Launch Xender app on your Android device.
-Tap on the “+” button.
-Choose “Connect iPhone”.
-Now on the iPhone, go to Wi-Fi settings and connect to the Wi-Fi connection created by your Android device.
-Now launch Xender on iPhone and tap on “+” and choose “Connect Friend”.
-You will now be connected to the Android device and be able to send files between the devices.},
+        },
         {
             "id": 3,
             "name": "How to move Xender to SD Card!"
