@@ -24,19 +24,7 @@
     "Step 1": [
         {
             "id": 1,
-             "How to Set default file destination?"
-            "name": "Xender allows you to save the files that you receive on your mobile at any place that you like. It provides users with two options to where the files where will be stored on the phone when you receive them.
-
-You can either set it to Phone Storage which will take up your internal storage or choose SD Card which will use the storage of your SD Card if it’s available on your device.
-
-How to set default file destination?
-To change your default file save destination on Xender, follow these steps. Make sure that your device has support for SD Card and it is working properly!
-
-Launch Xender.
-Tap on your avatar icon.
-Tap on Settings.
-Tap on Download Location.
-Now select either SD Card or Phone Storage as your default file destination."
+            "name": "How to Set default file destination?"
         },
         {
             "id": 2,
