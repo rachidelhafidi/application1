@@ -1,0 +1,29 @@
+  
+{
+"list":[
+{
+"id":1,
+"name":"HappyMod - Happy Apps tips",
+"img":"https://play-lh.googleusercontent.com/m1h7XeY-rxC2pHu1hHnYf8_if9wzaMnUN9zL7QJOm5wVnB_VX5gZpKs8vlidwwjJTjk=s180-rw",
+"url_play":"https://play.google.com/store/apps/details?id=com.guideforhappymodrh.tipsappsmanager"
+},
+{
+"id":2,
+"name":"Tips For File Transfer and Sharing 2020",
+"img":"https://play-lh.googleusercontent.com/M5LMPlO_wi5sUqeesDFWfnJWMPeIB6k8UCQ7HHR7gDzJVSSl1u7hbvKKEYo875b1qo4=s180-rw",
+"url_play":"https://play.google.com/store/apps/details?id=com.tipsfiletransfer.sharingfilesfree"
+},
+{
+"id":3,
+"name":"",
+"img":"",
+"url_play":""
+},
+{
+"id":4,
+"name":"",
+"img":"",
+"url_play":""
+}
+]
+}
