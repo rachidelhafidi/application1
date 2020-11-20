@@ -1,0 +1,143 @@
+{
+    "steps": [
+        {
+            "id": 1,
+            "name": "First Step"
+        },
+        {
+            "id": 2,
+            "name": "Second Step"
+        },
+        {
+            "id": 3,
+            "name": "Third Step"
+        },
+        {
+            "id": 4,
+            "name": "Fourth Step"
+        },
+        {
+            "id": 5,
+            "name": "Fifth Step"
+        }
+    ],
+    "First Step": [
+        {
+            "id": 1,
+            "name": "how to Download Zoom?"
+        },
+        {
+            "id": 2,
+            "name": "How does Zoom work?"
+        },
+        {
+            "id": 3,
+            "name": "Zoom tips and tricks1"
+        },
+        {
+            "id": 4,
+            "name": "Zoom tips and tricks2"
+        }
+    ],
+    "Second Step": [
+        {
+            "id": 1,
+            "name": "How do I stop my zoom from recording automatically?"
+        },
+        {
+            "id": 2,
+            "name": "Can you record a zoom meeting as a participant?"
+        },
+        {
+            "id": 3,
+            "name": "How do you get unlimited minutes on Zoom?"
+        },
+        {
+            "id": 4,
+            "name": "How do I record a meeting in Zoom Cloud meeting app?"
+        }
+    ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "How do I show everyone in Zoom meeting?"
+        },
+        {
+            "id": 2,
+            "name": "How to Receive Files in Xender ?"
+        },
+        {
+            "id": 3,
+            "name": "How do you get unlimited minutes on Zoom?"
+        },
+        {
+            "id": 4,
+            "name": "How do I record a meeting in Zoom Cloud meeting app?"
+        }
+    ],
+    "Fourth Step": [
+        {
+            "id": 1,
+            "name": "How to connect Xender Web"
+        },
+        {
+            "id": 2,
+            "name": "How do I show everyone in Zoom meeting?"
+        },
+        {
+            "id": 3,
+            "name": "How do you get unlimited minutes on Zoom?"
+        },
+        {
+            "id": 4,
+            "name": "How do I record a meeting in Zoom Cloud meeting app?"
+        }
+    ],
+    "how to Download Zoom?": [
+        {
+            "name": "The desktop app is out there for Windows and macOS while the mobile app is out there for Android and iOS All the apps allow you to join a gathering without signing in but also allow you to check in employing a Zoom account Google Facebook or SSO From there youll start a gathering join a gathering share your screen during a Zoom Room by entering the meeting ID start Zoom Meetings muteunmute your mic startstop the video invite others to the meeting change your screen name do inmeeting chat and begin a cloud recording If you are a desktop user youll also start an area recording create polls broadcast your Facebook survive Facebook and more In other words the desktop app is more fully featured although if you are a free user youll still get tons of mileage from the mobile app
+ You can download the Zoom app on your computer or phone and join any meeting with a supplied meeting ID youll prefer to disable audio or video before joining too youll even create your free Zoom account like by linking your Google account and from there youll create a replacement meeting schedule one join a gathering share a screen add contacts and so on Just confine mind youll only be signed in to Zoom on one computer one tablet and one phone at a time If you check in to a further device while logged into another device of an equivalent type Zoom said youll be logged out automatically on the primary device10 Paid users10 You can check in and download Zoom onto your computer using your work email if your supervisor features a Pro Business or Enterprise account Youll then want to sync Zoom to your calendar so youll schedule Zoom meetings and invite remote participants to hitch If youre fixing a Zoom Room you will need a computer to sync and run Zoom Meetings and a tablet for attendees to launch the Zoom Meetings Youll also need a mic camera and speaker a minimum of one HDTV monitors to display remote meeting participants and an HDMI cable to share computer screens on a display also as an online cable for your connection Youll also got to download Zoom Rooms for Conference Room on the inroom computer and Zoom Room Controller for the tablet within the meeting room youll then sync those rooms to your companys shared calendar so employees can see which meeting rooms are"
+        }
+    ],
+    "How does Zoom work?": [
+        {
+            "name": "Zoom allows one to one chat sessions which will grow into group calls training sessions and webinars for internal and external audiences and global video meetings with up to 1000 participants and as many as 49 onscreen videos The free tier allows unlimited oneonone meetings but limits group sessions to 40 minutes and 100 participants Paid plans start at 15 per month per host
+ 1 Zoom Free This tier is free youll hold a vast number of meetings Group meetings with multiple participants are capped at 40 minutes long and meetings cannot be recorded10 2 Zoom Pro This tier costs 1499 per month and meeting host It allows hosts to make personal meeting IDs for repetitive Zoom Meetings and it allows meeting recording within the cloud or your device but it caps group meeting durations at 24 hours10 3 Zoom Business This tier costs 1999 per month and meeting host 10 minimum It allows you to brand Zoom meetings with vanity URLs and company branding and it offers transcripts of Zoom meetings recorded within the cloud also as dedicated customer support10 4 Zoom Enterprise This tier costs 1999 per month and per meeting host 100 minimum and is supposed for businesses with 1000 employees It offers unlimited cloud storage for recordings a customer success manager and discounts on webinars and Zoom Rooms10 5 Optional Zoom Rooms If you would like to line up Zoom Rooms youll check in for a free 30day trial after which Zoom Rooms require a further 49 per month and room subscription while webinars using Zoom cost 40 per month and host."
+        }
+    ],
+    "Zoom tips and tricks1": [
+        {
+            "name": "Zoom allows you to create recurring meetings youll set the decision settings you would like once and have them be in there whenever you propose to satisfy and youll join calls using an equivalent URL whenever within the Zoom mobile app just log in click schedule tap the Repeat option and choose a recurrence For more info on scheduling meetings generally and every one of the meeting settings see Zooms FAQ on scheduling meetings
+ Zoom allows you to record calls as videos you want to choose whether to use the local or cloud option Local means you store the video file yourself on your computer or in another cargo area With Cloud which is for paid subscribers only Zoom stores the video for you in its cloud storage But to record videos you would like Zoom on macOS Windows or Linux once you record a gathering and choose Record to the Cloud the video audio and chat text is recorded within the Zoom cloud If you do not see the choice to record check your settings within the web app under My Meeting Settings or have your account admin enable it The recording files are often downloaded to a computer or streamed from a browser To manage your recorded meetings or share a recording with others log in to your account and navigate to the My Recordings page
+ You can upload a picture of anything you would like to customize your background Its available for both iPhone and desktops On a Mac or PC as an example just open up your Zoom client click on the Setup icon on the corner and choose Virtual Background within the side menu Zoom provides a couple of backgrounds Click on the one youd wish to use If youd like your own background click on the sign above and to the left of the sample backgrounds choose a picture from your computer and add it You can also add a virtual background during a gathering In your Zoom client click on the arrow next to the video symbol on the left select Choose a virtual background and youll see an equivalent Virtual Background page"
+        }
+    ],
+    "Zoom tips and tricks2": [
+        {
+            "name": "You can upload a picture of anything you would like to customize your background Its available for both iPhone and desktops On a Mac or PC as an example just open up your Zoom client click on the Setup icon on the corner and choose Virtual Background within the side menu Zoom provides a couple of backgrounds Click on the one youd wish to use If youd like your own background click on the sign above and to the left of the sample backgrounds choose a picture from your computer and add it You can also add a virtual background during a gathering In your Zoom client click on the arrow next to the video symbol on the left select Choose a virtual background and youll see an equivalent Virtual Background page
+ Use a filter to subtly smooth fine lines Its meant to seem very natural attend Settings and under the Video tab check the box next to the touch up"
+        }
+    ],
+    "Zoom tips and tricks3": [
+        {
+            "name": "You can automatically transcribe the audio of a gathering that you simply record to the cloud And because the meeting host youll edit your transcript scan the transcript text for keywords to access the video at that moment and share the recording10 To enable the Audio Transcript feature for your own use sign into the Zoom web portal and navigate to My Meeting Settings then attend the Cloud recording option on the Recording tab and verify that the setting is enabled Choose activate if need be If the choice is greyed out its been locked at either the Group or Account level and youll got to contact your Zoom admin
+ With gallery view you see up to 49 meeting participants directly instead of the default 25 counting on your device10 With the Zoom mobile app on Android and iOS youll start or join a gathering By default the Zoom mobile app displays the active speaker view If one or more participants join the meeting youll see a video thumbnail within the bottomright corner youll view up to four participants video at an equivalent time If you would like to look at 49 people youll need the Zoom desktop client for macOS or Windows Once youve got the desktop app installed on your computer you want to attend Settings and click on Video to display the video settings page Then enable the choice Display up to 49 participants per screen in Gallery View"
+        }
+    ],
+    "Zoom tips and tricks4": [
+        {
+            "name": "Did you recognize that you simply cant only share your screen smartphone and desktop but also pause your screen sharing Simply press Pause Share once you dont want your meeting participants to observe you fiddle your presentation slides Learn more here.
+ You can share files directly from your phone while within the meeting and use the whiteboarding feature on your phone by writing comments together with your finger To annotate while viewing someone elses shared screen select View Options from the highest of the Zoom window then choose Annotate A toolbar will appear with all of your options for annotating like text draw arrow and so on"
+        }
+    ],
+    "How do you get unlimited minutes on Zoom?": [
+        {
+            "name": "According to Zoom you have two options when your precious 40 minutes run out. Start a new meeting: As there are no restrictions on the number of meetings you're allowed to host the easiest solution is to start a new meeting with the same participants"
+        }
+    ],
+    "How do I record a meeting in Zoom Cloud meeting app?": [
+        {
+            "name": "While hosting a Zoom meeting from your Android devicetap More.Tap Record The app will now show Recording at the top of your screen To stop or pause the recording, tap More again."
+        }
+    ]
+}
