@@ -1,10 +1,10 @@
 {"ADS_STATION":[{
-  "face_banner":"787755785105159_787756038438467",
-"face_interstital":"787755785105159_787757145105023",
-"face_native":"787755785105159_787757771771627",
+  "face_banner":"412529556438788_412530333105377",
+"face_interstital":"412529556438788_412531273105283",
+"face_native":"412529556438788_412531743105236",
 
 "admob_banner":"ca-app-pub-3769257352675573/3804708018",
 "admob_interstital":"ca-app-pub-3769257352675573/3416667534",
 "admob_nativeads":"ca-app-pub-3769257352675573/6510762403",
-"admob_or_face_or_both":"both"
+"admob_or_face_or_both":"face"
 }]}
